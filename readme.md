@@ -1,7 +1,7 @@
 # 🌵 Plant Landing Page Website
 A modern, visually stunning plant-themed landing page built with HTML and CSS. Though still in progress, this site features elegant design, thoughtful color schemes, custom components, and impressive layout techniques.
 
-🪴 Live Preview: <a href="[plantwebsitebyshahmir.netlify.app](https://plantwebsitebyshahmir.netlify.app)">Click here to Preview Website</a>
+🪴 Live Preview: <a href="https://plantwebsitebyshahmir.netlify.app">Click here to Preview Website</a>
 
 ## 🎨 Features
 💚 Aesthetic dark theme with green accent
