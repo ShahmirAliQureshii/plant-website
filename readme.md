@@ -42,7 +42,7 @@ cd plant-landing-page
 Open index.html in your browser
 
 ## Website Image
-<img src="/plant-web.png"></img>
+<img src="/plant-website.png"></img>
 
 ## 🧑‍💻 Author
 Made with 💚 by Shahmir Ali Qureshi<br>
