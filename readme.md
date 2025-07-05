@@ -41,6 +41,9 @@ git clone https://github.com/yourusername/plant-landing-page.git
 cd plant-landing-page
 Open index.html in your browser
 
+## Website Image
+<img src="/plant-web.png"></img>
+
 ## 🧑‍💻 Author
 Made with 💚 by Shahmir Ali Qureshi<br>
 
